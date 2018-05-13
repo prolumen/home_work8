@@ -43,6 +43,7 @@ class CarTypeDemo{
         sedan.putModels("Renault Logan", 1.6);
         sedan.putModels("Volvo V60", 2.5);
         sedan.putModels("Lifan ", 1.3);
+        System.out.println("hello");
 
         CarType sportCar;
         sportCar = CarType.SportCar;
