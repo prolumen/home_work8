@@ -45,6 +45,17 @@ class CarTypeDemo{
         sedan.putModels("Lifan ", 1.3);
         System.out.println("hello");
 
+        /*
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+         */
+
         CarType sportCar;
         sportCar = CarType.SportCar;
         sportCar.putModels("Mazda RX8", 1.3);
